@@ -1,4 +1,10 @@
-# AngularHello
+# Scripts
+
+`.\build_test.ps1` : script Powershell de build + test.
+
+`./build_test.sh` : script Bash de build + test.
+
+# Original README.md : AngularHello
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
 
